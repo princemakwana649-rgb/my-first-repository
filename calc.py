@@ -11,3 +11,6 @@ print(f"Subtraction: {num1} - {num2} = {subtraction}")
 multiplication = num1 * num2
 print(f"Multiplication: {num1} * {num2} = {multiplication}")
 
+if num2 != 0:
+    division = num1 / num2
+    print(f"Division: {num1} / {num2} = {division}")
